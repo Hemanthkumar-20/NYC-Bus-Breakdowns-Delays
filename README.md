@@ -7,6 +7,10 @@ The aim is to **understand operational delays, breakdown causes, and borough-lev
 
 ---
 
+## 📊 Power BI Dashboard
+The complete Power BI report is available here:
+🔗 https://drive.google.com/drive/folders/17o3K7GnKxfIv2SgRFJuJBS2Dhgysf2nU?usp=sharing
+
 ## Technical Stack
 
 * **Language:** Python 3
